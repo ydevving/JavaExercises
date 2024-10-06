@@ -4,28 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e919e6c-096c-4c3c-9491-5b72c61a438b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day1/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10/Watchtower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_1/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2_1/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2_2/Prints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2_3/UserInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/Fix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/Types.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5_1/Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5_2/TriangleFarmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6/Eggs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day7/Dominion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day8/Defense.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day9/Clocktower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="9e919e6c-096c-4c3c-9491-5b72c61a438b" name="Changes" comment="Exercises pushed">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11_2/Discounted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12/Prototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day13/MagicCannon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day14/Replicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15/Laws.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day16/AskNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day17/Countdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day18/Manticore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day19/SimulasTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day20/SimulasSoup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day20/Soup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day21_1/Arrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day21_1/FletcherArrows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day21_2/Arrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day21_2/Fletcher2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day22/Arrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day22/Fletcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day23/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day24/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day24/ColorMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day25/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day11_1/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day11_1/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +39,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -42,6 +47,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ydevving&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ydevving/JavaExercises.git&quot;,
+    &quot;accountId&quot;: &quot;f51ac17e-c116-420a-8564-25c4500637d6&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -53,18 +70,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Bananas/IdeaProjects/Exercises/src/Day22",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bananas\IdeaProjects\Exercises\src\Day22" />
+      <recent name="C:\Users\Bananas\IdeaProjects\Exercises\src\Day21_2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Day25" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,6 +102,19 @@
       <option name="presentableId" value="Default" />
       <updated>1726046019255</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercises pushed">
+      <option name="closed" value="true" />
+      <created>1726402339429</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726402339429</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercises pushed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercises pushed" />
   </component>
 </project>
